@@ -48,3 +48,8 @@ This project centers on telecom customer analysis, focusing on predicting churn 
 
 **Results**
 
+
+
+**Contact & Connect**
+
+For further inquiries or to discuss potential collaborations, please feel free to connect with me on LinkedIn: (https://www.linkedin.com/in/poch-vibolvatanak-507007157/)
