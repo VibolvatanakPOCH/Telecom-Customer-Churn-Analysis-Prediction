@@ -94,7 +94,7 @@ The Customer Churn Prediction App may exhibit limitations such as potential bias
 4. **Take Action:** Based on the insights provided, businesses can take proactive steps to retain at-risk customers and improve overall customer satisfaction.
 5. **Download Results:** If needed, users can download the prediction results for further analysis or reporting purposes.
 
-**[Let's test together!!](https://drive.google.com/drive/folders/1PJmwT_N73ujEY2_1R5V1dJQWk1yUVGlV)**
+**[Let's test it together!!](https://drive.google.com/drive/folders/1PJmwT_N73ujEY2_1R5V1dJQWk1yUVGlV)**
 
 #### Online Prediction
 *Predict churn for individual customers in real-time.*
