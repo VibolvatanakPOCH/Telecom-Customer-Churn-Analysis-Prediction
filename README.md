@@ -69,7 +69,7 @@ Using the Customer Churn dataset as the source of our data. "Predict behavior to
 
  Explore our Streamlit web app featuring a robust churn prediction model powered by Gradient Boosting Classifier. Predicting churn probabilities with precision, this tool empowers businesses to preemptively retain valuable customers, optimizing retention strategies for enhanced profitability and customer satisfaction. With a user-friendly interface and actionable insights, stay ahead in the competitive landscape with our data-driven solution. 
 
-**Try it out! [Telecom Churn Prediction App](https://drive.google.com/drive/folders/1PJmwT_N73ujEY2_1R5V1dJQWk1yUVGlV)**
+**Try it out! [Telecom Churn Prediction App](https://telecom-customer-churn-analysis-prediction.streamlit.app/)**
 
 #### Prediction Options
 *Choose between online prediction for individual customers or batch prediction for multiple customer records. Get real-time insights or analyze churn in bulk, with detailed explanations and recommendations provided for both modes.*
@@ -94,10 +94,10 @@ The Customer Churn Prediction App may exhibit limitations such as potential bias
 4. **Take Action:** Based on the insights provided, businesses can take proactive steps to retain at-risk customers and improve overall customer satisfaction.
 5. **Download Results:** If needed, users can download the prediction results for further analysis or reporting purposes.
 
-**[Let's test it together!!](https://drive.google.com/drive/folders/1PJmwT_N73ujEY2_1R5V1dJQWk1yUVGlV)**
+**[Let's test it together!!](https://telecom-customer-churn-analysis-prediction.streamlit.app/)**
 
 #### Online Prediction
-*Predict churn for individual customers in real-time.*
+*Predict churn for individual customers in real time.*
 ![WA2 - Online Prediction](https://github.com/Vatanak8/Telecom-Customer-Churn-Analysis-Prediction/assets/95983559/a6284582-db9c-49a2-8193-fd54fca9c09d)
 
 #### Online Explanation & Recommendation
