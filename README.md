@@ -27,7 +27,7 @@ Using the Customer Churn dataset as the source of our data. "Predict behavior to
 - **Secure and Confidential:** The app ensures the security and confidentiality of customer data, with measures in place to protect sensitive information.
 
 
-# Data Visualizations
+# Insight & Visualization
 ## Overall Dashboard
 
 ## Customer Profiles
@@ -92,4 +92,4 @@ To install and run the app locally, follow these steps:
 
 **Contact & Connect**
 
-For further inquiries or to discuss potential collaborations, please feel free to connect with me on LinkedIn: (https://www.linkedin.com/in/poch-vibolvatanak-507007157/)
+For further inquiries or to discuss potential collaborations, please feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/poch-vibolvatanak-507007157/)
