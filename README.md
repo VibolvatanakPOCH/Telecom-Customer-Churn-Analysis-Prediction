@@ -5,7 +5,7 @@
 This application is designed to help businesses predict customer churn, which refers to the likelihood of customers discontinuing their services or subscriptions. By identifying customers at risk of churn, businesses can implement targeted retention strategies to improve customer satisfaction and reduce revenue loss. Utilizing the Gradient Boosting model for prediction and an analytic customer dashboard on Power BI enables proactive customer retention and profitability enhancement in the telecom sector. Additionally, interactive visualizations are deployed through Streamlit to offer stakeholders actionable insights via a user-friendly web app interface.
 
 ## Data Source
-Using the Customer Churn dataset as the source of our data. "Predict behavior to retain customers. You can analyze all relevant customer data and develop focused customer retention programs." [IBM Sample Data Sets]. You can find the dataset here: [Telco Customer Churn](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
+Using the Customer Churn dataset as the source of our data. "Predict behavior to retain customers. You can analyze all relevant customer data and develop focused customer retention programs." [IBM Sample Data Sets]. You can find the dataset here: [[Power BI] Telco Customer Churn](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
 
 ## Technologies Used
 
@@ -21,7 +21,7 @@ Using the Customer Churn dataset as the source of our data. "Predict behavior to
 ## Key Features
 
 - **Comprehensive Customer Insights:** Leverage Power BI for in-depth analysis of customer behavior, demographics, and usage patterns.
-- **Transparent Churn Comparison:** Clearly visualize and compare actual churn rates with predicted churn probabilities to assess model accuracy.
+- **Transparent Churn Comparison:** visualize and compare actual churn rates with predicted churn probabilities to assess model accuracy.
 - **Streamlined Prediction Process:** Utilize the Gradient Boosting model via Streamlit for seamless churn prediction, enabling quick decision-making.
 - **Interpretation Assistance:** Receive clear explanations of churn predictions and influential factors, aiding in understanding and actionability.
 - **Tailored Retention Strategies:** Generate actionable recommendations based on prediction results to implement targeted retention efforts and reduce churn.
@@ -58,7 +58,7 @@ Using the Customer Churn dataset as the source of our data. "Predict behavior to
 - 💰 **Total Charge Analysis:** Understand how spending habits influence churn, aiding in pricing adjustments and retention planning.
 - 💵 **Total Charge of Risk Customers:** See how much revenue is at stake from high-risk customer churn, guiding targeted retention efforts.
 - 🛡️ **Risk Group Distribution:** Get a clear picture of customer risk levels to prioritize retention resources effectively.
-- 📈 **Number of Risky Customers:** Know the quantity of customers at risk and their financial impact, aiding in resource allocation.
+- 📈 **Number of Risky Customers:** Know the number of customers at risk and their financial impact, aiding in resource allocation.
 - 🔄 **Churn Reason Analysis:** Identify why customers churn to address underlying issues and improve retention strategies.
 
 <img width="1100" alt="D3" src="https://github.com/Vatanak8/Telecom-Customer-Churn-Analysis-Prediction/assets/95983559/9bc78c2d-3d32-4bd1-a08f-0d6f43051d05">
@@ -69,7 +69,7 @@ Using the Customer Churn dataset as the source of our data. "Predict behavior to
 
  Explore our Streamlit web app featuring a robust churn prediction model powered by Gradient Boosting Classifier. Predicting churn probabilities with precision, this tool empowers businesses to preemptively retain valuable customers, optimizing retention strategies for enhanced profitability and customer satisfaction. With a user-friendly interface and actionable insights, stay ahead in the competitive landscape with our data-driven solution. 
 
-**Try it out! [Telecom Churn Preidction App](https://drive.google.com/drive/folders/1PJmwT_N73ujEY2_1R5V1dJQWk1yUVGlV)**
+**Try it out! [Telecom Churn Prediction App](https://drive.google.com/drive/folders/1PJmwT_N73ujEY2_1R5V1dJQWk1yUVGlV)**
 
 #### Prediction Options
 *Choose between online prediction for individual customers or batch prediction for multiple customer records. Get real-time insights or analyze churn in bulk, with detailed explanations and recommendations provided for both modes.*
