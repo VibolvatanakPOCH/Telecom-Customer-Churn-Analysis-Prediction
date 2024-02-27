@@ -96,7 +96,7 @@ The Customer Churn Prediction App may exhibit limitations such as potential bias
 
 **[Let's test it together!!](https://telecom-customer-churn-analysis-prediction.streamlit.app/)**
 
-#### Online Prediction
+#### I. Online Prediction
 *Predict churn for individual customers in real time.*
 ![WA2 - Online Prediction](https://github.com/Vatanak8/Telecom-Customer-Churn-Analysis-Prediction/assets/95983559/a6284582-db9c-49a2-8193-fd54fca9c09d)
 
@@ -104,7 +104,7 @@ The Customer Churn Prediction App may exhibit limitations such as potential bias
 *Receive detailed explanations and actionable recommendations based on individual predictions.*
 ![WA3 - Online Result Explanation   Recommendation](https://github.com/Vatanak8/Telecom-Customer-Churn-Analysis-Prediction/assets/95983559/7dfbc100-ab69-45cc-a0e4-29eeb410c900)
 
-#### Batch Prediction & Download Predicted Report (.csv)
+#### II. Batch Prediction & Predicted Report Download (.csv)
 *Bulk churn prediction with the option to download the results in CSV format.*
 ![WA4 - Batch Prediction + Download](https://github.com/Vatanak8/Telecom-Customer-Churn-Analysis-Prediction/assets/95983559/319e3e88-a8c1-4f3a-8399-36c7e7175167)
 
