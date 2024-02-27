@@ -28,7 +28,7 @@ Using the Customer Churn dataset as the source of our data. "Predict behavior to
 - **Secure and Confidential:** The app ensures the security and confidentiality of customer data, with measures in place to protect sensitive information.
 
 
-# 🔍 Data Visualization 
+# Data Visualization 
 ## Telecom Customer Churn Dashboard Summary
 
  Analyze customer segmentation based on demographics, usage patterns, and contract types to gain insights into churn behavior over time, while ensuring data security measures align with regulatory compliance standards. For full experience and interaction with the dashboard, Here is the link to the dashboard: [Telecom Customer Churn Analysis Dashboard](https://www.novypro.com/project/telecom-customer-churn-analysis---power-bi)
@@ -79,11 +79,12 @@ Using the Customer Churn dataset as the source of our data. "Predict behavior to
 
 # Model Prediction - Streamlit Web App
 
-🔮 Explore our Streamlit web app featuring a robust churn prediction model powered by Gradient Boosting Classifier. Predicting churn probabilities with precision, this tool empowers businesses to preemptively retain valuable customers, optimizing retention strategies for enhanced profitability and customer satisfaction. With a user-friendly interface and actionable insights, stay ahead in the competitive landscape with our data-driven solution. 
+ Explore our Streamlit web app featuring a robust churn prediction model powered by Gradient Boosting Classifier. Predicting churn probabilities with precision, this tool empowers businesses to preemptively retain valuable customers, optimizing retention strategies for enhanced profitability and customer satisfaction. With a user-friendly interface and actionable insights, stay ahead in the competitive landscape with our data-driven solution. 
 
-**Try it out! [Telecom Churn Prediction](https://drive.google.com/drive/folders/1PJmwT_N73ujEY2_1R5V1dJQWk1yUVGlV)**
+**Try it out! [Telecom Churn Preidction App](https://drive.google.com/drive/folders/1PJmwT_N73ujEY2_1R5V1dJQWk1yUVGlV)**
 
 #### Prediction Options
+*Choose between online prediction for individual customers or batch prediction for multiple customer records. Get real-time insights or analyze churn in bulk, with detailed explanations and recommendations provided for both modes.*
 ![WA1 - 2 Prediction Option](https://github.com/Vatanak8/Telecom-Customer-Churn-Analysis-Prediction/assets/95983559/96aecb33-c24c-45e8-b7e6-e23144b5a00c)
 
 # Benefits
@@ -105,22 +106,22 @@ The Customer Churn Prediction App may exhibit limitations such as potential bias
 4. **Take Action:** Based on the insights provided, businesses can take proactive steps to retain at-risk customers and improve overall customer satisfaction.
 5. **Download Results:** If needed, users can download the prediction results for further analysis or reporting purposes.
 
-**Let's Try!! [Telecom Churn Prediction](https://drive.google.com/drive/folders/1PJmwT_N73ujEY2_1R5V1dJQWk1yUVGlV)**
+**[Let's Try!!](https://drive.google.com/drive/folders/1PJmwT_N73ujEY2_1R5V1dJQWk1yUVGlV)**
 
 #### Online Prediction
-Predict churn for individual customers in real-time.
+*Predict churn for individual customers in real-time.*
 ![WA2 - Online Prediction](https://github.com/Vatanak8/Telecom-Customer-Churn-Analysis-Prediction/assets/95983559/a6284582-db9c-49a2-8193-fd54fca9c09d)
 
 #### Online Explanation & Recommendation
-Receive detailed explanations and actionable recommendations based on individual predictions.
+*Receive detailed explanations and actionable recommendations based on individual predictions.*
 ![WA3 - Online Result Explanation   Recommendation](https://github.com/Vatanak8/Telecom-Customer-Churn-Analysis-Prediction/assets/95983559/7dfbc100-ab69-45cc-a0e4-29eeb410c900)
 
 #### Batch Prediction & Download Predicted Report (.csv)
-Bulk churn prediction with the option to download the results in CSV format.
+*Bulk churn prediction with the option to download the results in CSV format.*
 ![WA4 - Batch Prediction + Download](https://github.com/Vatanak8/Telecom-Customer-Churn-Analysis-Prediction/assets/95983559/319e3e88-a8c1-4f3a-8399-36c7e7175167)
 
 #### Batch Explanation & Recommendation
-Get comprehensive insights and recommendations for multiple customer records simultaneously.
+*Get comprehensive insights and recommendations for multiple customer records simultaneously.*
 ![WA5 - Batch Result Explanation](https://github.com/Vatanak8/Telecom-Customer-Churn-Analysis-Prediction/assets/95983559/ec6c6007-51c1-418d-8200-b0128014358e)
 
 
