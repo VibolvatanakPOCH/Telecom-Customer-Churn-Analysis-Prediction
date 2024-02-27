@@ -1,11 +1,11 @@
-# Telecom-Customer-Churn-Analysis-&-Prediction
+![image](https://github.com/Vatanak8/Telecom-Customer-Churn-Analysis-Prediction/assets/95983559/ed608695-cc1f-4a82-9057-e3db4e451140)# Telecom-Customer-Churn-Analysis-&-Prediction
 
 ## Project Overview
 
 This application is designed to help businesses predict customer churn, which refers to the likelihood of customers discontinuing their services or subscriptions. By identifying customers at risk of churn, businesses can implement targeted retention strategies to improve customer satisfaction and reduce revenue loss. Utilizing the Gradient Boosting model for prediction and an analytic customer dashboard on Power BI enables proactive customer retention and profitability enhancement in the telecom sector. Additionally, interactive visualizations are deployed through Streamlit to offer stakeholders actionable insights via a user-friendly web app interface.
 
 ## Data Source
-Using the Customer Churn dataset as the source of our data. "Predict behavior to retain customers. You can analyze all relevant customer data and develop focused customer retention programs." [IBM Sample Data Sets]. You can find the dataset here [Telco Customer Churn](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
+Using the Customer Churn dataset as the source of our data. "Predict behavior to retain customers. You can analyze all relevant customer data and develop focused customer retention programs." [IBM Sample Data Sets]. You can find the dataset here: [Telco Customer Churn](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
 
 ## Technologies Used
 
@@ -20,16 +20,16 @@ Using the Customer Churn dataset as the source of our data. "Predict behavior to
 
 ## Key Features
 
--   Customer 360* analysis visualization integrated seamlessly within Power BI for comprehensive insights into customer behavior and preferences.
--   Transparent presentation highlighting the comparison between actual and predicted churn rates.
+- **Customer 360 analysis** visualization integrated seamlessly within Power BI for comprehensive insights into customer behavior and preferences.
+- **Transparent presentation** highlighting the comparison between actual and predicted churn rates.
 - **Easy Prediction:** Users can easily predict customer churn either one at a time or in bulk by uploading a CSV file.
 - **Understandable Insights:** The app provides clear explanations of the prediction results, including the likelihood of churn and important factors influencing the predictions.
 - **Actionable Recommendations:** Based on the prediction results, the app offers actionable recommendations for businesses to retain customers and improve their overall experience.
 - **Secure and Confidential:** The app ensures the security and confidentiality of customer data, with measures in place to protect sensitive information.
 
 
-# Data Insight & Visualization [See full][[Telecom Customer Churn Analysis Dashboard](https://www.novypro.com/project/telecom-customer-churn-analysis---power-bi)]
-## 📊 Telecom Customer Churn Dashboard Summary
+# Data Insight & Visualization 
+## Telecom Customer Churn Dashboard Summary
 
 🔍 Analyze customer segmentation based on demographics, usage patterns, and contract types to gain insights into churn behavior over time, while ensuring data security measures align with regulatory compliance standards. For full experience and interaction with the dashboard, Here is the link to the dashboard: [Telecom Customer Churn Analysis Dashboard](https://www.novypro.com/project/telecom-customer-churn-analysis---power-bi)
 
@@ -42,9 +42,10 @@ Using the Customer Churn dataset as the source of our data. "Predict behavior to
 - **Data Security Measures**
 "Explanation of measures taken to ensure the security and confidentiality of customer data, aligning with regulatory compliance standards."
 
-<img width="1122" alt="D1" src="https://github.com/Vatanak8/Telecom-Customer-Churn-Analysis-Prediction/assets/95983559/fcfbc607-e1d0-43da-a1d2-bdd76d199949">
+<img width="1283" alt="D1" src="https://github.com/Vatanak8/Telecom-Customer-Churn-Analysis-Prediction/assets/95983559/358b66f7-d7b9-439f-ad14-60cdc9c13ae1">
 
-## 📊 Customer Profile Dashboard Overview
+
+## Customer Profile Overview
 
 - 👤 **Customer ID:** Identify individual customers within the system.
 
@@ -62,7 +63,7 @@ Using the Customer Churn dataset as the source of our data. "Predict behavior to
 
 <img width="1097" alt="D2" src="https://github.com/Vatanak8/Telecom-Customer-Churn-Analysis-Prediction/assets/95983559/ebf72061-41a8-4171-a359-29c5d0b51e85">
 
-## 📊 Customer Churn Reasons Overview
+## Customer Churn Reasons Overview
 
 - 💰 **Total Charge Analysis:** Investigate the correlation between total charges and churn, quantifying the impact of expenditure on customer retention.
 
@@ -75,10 +76,10 @@ Using the Customer Churn dataset as the source of our data. "Predict behavior to
 <img width="1100" alt="D3" src="https://github.com/Vatanak8/Telecom-Customer-Churn-Analysis-Prediction/assets/95983559/9bc78c2d-3d32-4bd1-a08f-0d6f43051d05">
 
 
-# Web App - Prediction
-[photo0]
+# Model Prediction - Streamlit Web App
 
-
+### Prediction Options
+![WA1 - 2 Prediction Option](https://github.com/Vatanak8/Telecom-Customer-Churn-Analysis-Prediction/assets/95983559/96aecb33-c24c-45e8-b7e6-e23144b5a00c)
 
 ## How It Works
 
@@ -99,9 +100,18 @@ Using the Customer Churn dataset as the source of our data. "Predict behavior to
 
 The Customer Churn Prediction App may exhibit limitations such as potential bias in model predictions, challenges in interpreting complex model decisions, and the need for continuous updates to address evolving customer behavior and market dynamics.
 
-## Demo 1
+### Online Prediction
+![WA2 - Online Prediction](https://github.com/Vatanak8/Telecom-Customer-Churn-Analysis-Prediction/assets/95983559/a6284582-db9c-49a2-8193-fd54fca9c09d)
 
-## Demo 2
+### Explanation & Recommendation
+![WA3 - Online Result Explanation   Recommendation](https://github.com/Vatanak8/Telecom-Customer-Churn-Analysis-Prediction/assets/95983559/7dfbc100-ab69-45cc-a0e4-29eeb410c900)
+
+### Batch Prediction & Download Predicted Report (.csv)
+![WA4 - Batch Prediction + Download](https://github.com/Vatanak8/Telecom-Customer-Churn-Analysis-Prediction/assets/95983559/319e3e88-a8c1-4f3a-8399-36c7e7175167)
+
+### Explanation 
+![WA5 - Batch Result Explanation](https://github.com/Vatanak8/Telecom-Customer-Churn-Analysis-Prediction/assets/95983559/ec6c6007-51c1-418d-8200-b0128014358e)
+
 
 ## Installation
 
@@ -122,14 +132,14 @@ To install and run the app locally, follow these steps:
     streamlit run app.py 
     ```
 
-**Project Structure**
+## Project Structure
 
 *   `data/`: Contains raw telecom datasets (.csv, .h5, or other format)
-*   `models/`: Gradient Boosting model  (e.g., a .pkl or .joblib file)
-*   `Code/`:  Script for data cleaning, feature engineering, and train/test splits.
+*   `codels/`: Gradient Boosting model  (e.g., a .pkl or .joblib file)
+*   `code/`:  Script for data cleaning, feature engineering, and train/test splits.
 *   `app.py`: Core Streamlit application code. 
 
 
-**Contact & Connect**
+## Contact & Connect
 
 For further inquiries or to discuss potential collaborations, please feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/poch-vibolvatanak-507007157/)
