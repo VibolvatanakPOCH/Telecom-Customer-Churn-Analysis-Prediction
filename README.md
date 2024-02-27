@@ -1,4 +1,4 @@
-![image](https://github.com/Vatanak8/Telecom-Customer-Churn-Analysis-Prediction/assets/95983559/ed608695-cc1f-4a82-9057-e3db4e451140)# Telecom-Customer-Churn-Analysis-&-Prediction
+# Telecom-Customer-Churn-Analysis-&-Prediction
 
 ## Project Overview
 
