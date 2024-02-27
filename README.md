@@ -74,11 +74,12 @@ Using the Customer Churn dataset as the source of our data. "Predict behavior to
 - 📈 **Number of Risky Customers:** Quantify the count of customers in each risk category and associated expenditure in dollars, facilitating a comprehensive understanding of churn risk distribution and financial impact across different customer segments.
 
 <img width="1100" alt="D3" src="https://github.com/Vatanak8/Telecom-Customer-Churn-Analysis-Prediction/assets/95983559/9bc78c2d-3d32-4bd1-a08f-0d6f43051d05">
-
+See Full Dashboard: [Telecom Customer Churn Analysis Dashboard](https://www.novypro.com/project/telecom-customer-churn-analysis---power-bi)
 
 # Model Prediction - Streamlit Web App
 
-[fdfdd]  
+🔮 Explore our Streamlit web app featuring a robust churn prediction model powered by Gradient Boosting Classifier. Predicting churn probabilities with precision, this tool empowers businesses to preemptively retain valuable customers, optimizing retention strategies for enhanced profitability and customer satisfaction. With a user-friendly interface and actionable insights, stay ahead in the competitive landscape with our data-driven solution.
+
 #### Prediction Options
 ![WA1 - 2 Prediction Option](https://github.com/Vatanak8/Telecom-Customer-Churn-Analysis-Prediction/assets/95983559/96aecb33-c24c-45e8-b7e6-e23144b5a00c)
 
