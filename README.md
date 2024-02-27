@@ -15,6 +15,7 @@ Using the Customer Churn dataset as the source of our data. "Predict behavior to
 * Pandas
 * Plotly
 * Scikit-learn
+* SMOTEENN
 * Joblib 
 
 ## Key Features
@@ -27,15 +28,54 @@ Using the Customer Churn dataset as the source of our data. "Predict behavior to
 - **Secure and Confidential:** The app ensures the security and confidentiality of customer data, with measures in place to protect sensitive information.
 
 
-# Insight & Visualization
-## Overall Dashboard
+# Data Insight & Visualization [See full][[Telecom Customer Churn Analysis Dashboard](https://www.novypro.com/project/telecom-customer-churn-analysis---power-bi)]
+## 📊 Telecom Customer Churn Dashboard Summary
 
-## Customer Profiles
+🔍 Analyze customer segmentation based on demographics, usage patterns, and contract types to gain insights into churn behavior over time, while ensuring data security measures align with regulatory compliance standards. For full experience and interaction with the dashboard, Here is the link to the dashboard: [Telecom Customer Churn Analysis Dashboard](https://www.novypro.com/project/telecom-customer-churn-analysis---power-bi)
 
-## Churn Reasons
+- **Customer Segmentation**
+"Segmentation of customers based on demographics, usage patterns, and contract types provides insights into churn behavior across different customer segments."
+
+- **Churn Trend Analysis**
+"Trend analysis depicts churn patterns over time, enabling businesses to identify seasonality and trend changes to anticipate future churn."
+
+- **Data Security Measures**
+"Explanation of measures taken to ensure the security and confidentiality of customer data, aligning with regulatory compliance standards."
+
+<img width="1122" alt="D1" src="https://github.com/Vatanak8/Telecom-Customer-Churn-Analysis-Prediction/assets/95983559/fcfbc607-e1d0-43da-a1d2-bdd76d199949">
+
+## 📊 Customer Profile Dashboard Overview
+
+- 👤 **Customer ID:** Identify individual customers within the system.
+
+- 🔄 **Churn Index:** Track the likelihood of customers churning based on historical data and predictive models.
+
+- 💰 **Total Charge:** Monitor the total charges incurred by each customer, aiding in financial analysis and customer valuation.
+
+- 🛡️ **Risk Level:** Assess the risk associated with each customer's churn probability, guiding targeted retention strategies.
+
+- 📝 **Personal Details:** Include demographic information such as age, gender, and location to understand customer characteristics.
+
+- 📄 **Contract Details:** Review contract specifics, including contract type, duration, and terms, to tailor retention offers effectively.
+
+- 💼 **Other Details:** Incorporate additional relevant information such as service usage patterns, customer feedback, and engagement metrics to enrich customer profiles and inform retention efforts.
+
+<img width="1097" alt="D2" src="https://github.com/Vatanak8/Telecom-Customer-Churn-Analysis-Prediction/assets/95983559/ebf72061-41a8-4171-a359-29c5d0b51e85">
+
+## 📊 Customer Churn Reasons Overview
+
+- 💰 **Total Charge Analysis:** Investigate the correlation between total charges and churn, quantifying the impact of expenditure on customer retention.
+
+- 💵 **Total Charge of Risk Customers:** Evaluate the total charges of high-risk and very high-risk customers in dollars to pinpoint financial implications associated with churn-prone segments.
+
+- 🛡️ **Risk Group Distribution:** Categorize customers into risk groups (non-risky, low-risky, risky, high-risk, very high-risky) based on churn probability, providing a numerical breakdown alongside dollar figures to illustrate the financial stakes associated with each risk category.
+
+- 📈 **Number of Risky Customers:** Quantify the count of customers in each risk category and associated expenditure in dollars, facilitating a comprehensive understanding of churn risk distribution and financial impact across different customer segments.
+
+<img width="1100" alt="D3" src="https://github.com/Vatanak8/Telecom-Customer-Churn-Analysis-Prediction/assets/95983559/9bc78c2d-3d32-4bd1-a08f-0d6f43051d05">
 
 
-# Prediction
+# Web App - Prediction
 [photo0]
 
 
