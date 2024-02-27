@@ -29,7 +29,7 @@ Using the Customer Churn dataset as the source of our data. "Predict behavior to
 
 
 # 🔍 Data Visualization 
-## 📊 Telecom Customer Churn Dashboard Summary
+## Telecom Customer Churn Dashboard Summary
 
  Analyze customer segmentation based on demographics, usage patterns, and contract types to gain insights into churn behavior over time, while ensuring data security measures align with regulatory compliance standards. For full experience and interaction with the dashboard, Here is the link to the dashboard: [Telecom Customer Churn Analysis Dashboard](https://www.novypro.com/project/telecom-customer-churn-analysis---power-bi)
 
@@ -45,7 +45,7 @@ Using the Customer Churn dataset as the source of our data. "Predict behavior to
 <img width="1283" alt="D1" src="https://github.com/Vatanak8/Telecom-Customer-Churn-Analysis-Prediction/assets/95983559/358b66f7-d7b9-439f-ad14-60cdc9c13ae1">
 
 
-## 📊 Customer Profile Overview
+## Customer Profile Overview
 
 - 👤 **Customer ID:** Identify individual customers within the system.
 
@@ -63,7 +63,7 @@ Using the Customer Churn dataset as the source of our data. "Predict behavior to
 
 <img width="1097" alt="D2" src="https://github.com/Vatanak8/Telecom-Customer-Churn-Analysis-Prediction/assets/95983559/ebf72061-41a8-4171-a359-29c5d0b51e85">
 
-## 📊 Customer Churn Reasons Overview
+## Customer Churn Reasons Overview
 
 - 💰 **Total Charge Analysis:** Investigate the correlation between total charges and churn, quantifying the impact of expenditure on customer retention.
 
@@ -104,13 +104,13 @@ The Customer Churn Prediction App may exhibit limitations such as potential bias
 #### Online Prediction
 ![WA2 - Online Prediction](https://github.com/Vatanak8/Telecom-Customer-Churn-Analysis-Prediction/assets/95983559/a6284582-db9c-49a2-8193-fd54fca9c09d)
 
-#### Explanation & Recommendation
+#### Online Explanation & Recommendation
 ![WA3 - Online Result Explanation   Recommendation](https://github.com/Vatanak8/Telecom-Customer-Churn-Analysis-Prediction/assets/95983559/7dfbc100-ab69-45cc-a0e4-29eeb410c900)
 
 #### Batch Prediction & Download Predicted Report (.csv)
 ![WA4 - Batch Prediction + Download](https://github.com/Vatanak8/Telecom-Customer-Churn-Analysis-Prediction/assets/95983559/319e3e88-a8c1-4f3a-8399-36c7e7175167)
 
-#### Explanation 
+#### Batch Explanation & Recommendation
 ![WA5 - Batch Result Explanation](https://github.com/Vatanak8/Telecom-Customer-Churn-Analysis-Prediction/assets/95983559/ec6c6007-51c1-418d-8200-b0128014358e)
 
 
