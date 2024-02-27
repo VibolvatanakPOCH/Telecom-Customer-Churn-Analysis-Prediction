@@ -75,7 +75,7 @@ Using the Customer Churn dataset as the source of our data. "Predict behavior to
 
 <img width="1100" alt="D3" src="https://github.com/Vatanak8/Telecom-Customer-Churn-Analysis-Prediction/assets/95983559/9bc78c2d-3d32-4bd1-a08f-0d6f43051d05">
 
-See Full Dashboard: [Telecom Customer Churn Analysis Dashboard](https://www.novypro.com/project/telecom-customer-churn-analysis---power-bi)
+###### See Full Dashboard: [Telecom Customer Churn Analysis Dashboard](https://www.novypro.com/project/telecom-customer-churn-analysis---power-bi)
 
 # Model Prediction - Streamlit Web App
 
