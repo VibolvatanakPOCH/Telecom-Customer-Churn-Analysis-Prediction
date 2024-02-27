@@ -32,7 +32,7 @@ Using the Customer Churn dataset as the source of our data. "Predict behavior to
 # Data Visualization 
 ## Telecom Customer Churn Dashboard Summary
 
- Analyze customer segmentation based on demographics, usage patterns, and contract types to gain insights into churn behavior over time, while ensuring data security measures align with regulatory compliance standards. For full experience and interaction with the dashboard, Here is the link to the dashboard: [[Power BI]Telecom Customer Churn Analysis Dashboard](https://www.novypro.com/project/telecom-customer-churn-analysis---power-bi)
+ Analyze customer segmentation based on demographics, usage patterns, and contract types to gain insights into churn behavior over time, while ensuring data security measures align with regulatory compliance standards. For full experience and interaction with the dashboard, Here is the link to the dashboard: [[Power BI] Telecom Customer Churn Analysis Dashboard](https://www.novypro.com/project/telecom-customer-churn-analysis---power-bi)
 
 - 🎯 **Customer Segmentation:** Utilize Power BI's advanced analytics to segment customers based on various criteria such as demographics, usage behavior, and contract types, enabling targeted marketing campaigns and personalized retention strategies.
 - 📈 **Churn Trend Analysis:** Employ interactive visualizations to identify trends and patterns in churn behavior over time, enabling businesses to anticipate potential churn spikes and take proactive measures to mitigate customer attrition.
