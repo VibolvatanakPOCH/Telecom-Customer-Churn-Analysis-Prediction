@@ -1,28 +1,57 @@
-# Telecom-Customer-Churn-Analysis-Prediction
+# Telecom-Customer-Churn-Analysis-&-Prediction
 
 **Project Overview**
 
-This project centers on telecom customer analysis, focusing on predicting churn to enhance churn retention and revenue optimization through targeted campaigns. Utilizing a Gradient Boosting model for prediction and an analytic customer dashboard on Power BI, it enables proactive customer retention and profitability enhancement in the telecom sector. Additionally, interactive visualizations are deployed through Streamlit to offer stakeholders actionable insights via a user-friendly web app interface.
+This application is designed to help businesses predict customer churn, which refers to the likelihood of customers discontinuing their services or subscriptions. By identifying customers at risk of churn, businesses can implement targeted retention strategies to improve customer satisfaction and reduce revenue loss. Utilizing a Gradient Boosting model for prediction and an analytic customer dashboard on Power BI enables proactive customer retention and profitability enhancement in the telecom sector. Additionally, interactive visualizations are deployed through Streamlit to offer stakeholders actionable insights via a user-friendly web app interface.
 
 **Technologies Used**
 
+* Power BI
 * Python
-* Gradient Boosting
-* Synthetic Minority Over-sampling Technique (SMOTEENN)
-* Pandas 
-* NumPy
-* Streamlit 
+* Streamlit
+* Pandas
+* Plotly
+* Scikit-learn
+* Joblib 
 
 **Key Features**
 
-*   **Key Features**
-
 *   Customer 360* analysis visualization integrated seamlessly within Power BI for comprehensive insights into customer behavior and preferences.
-*   Advanced predictive model designed to accurately forecast telecom customer churn and identify trends.
 *   Transparent presentation highlighting the comparison between actual and predicted churn rates.
-*   Interactive Streamlit dashboard for user-friendly data exploration and forecast visualization.
 
-**How to Run**
+- **Easy Prediction:** Users can easily predict customer churn either one at a time or in bulk by uploading a CSV file.
+- **Understandable Insights:** The app provides clear explanations of the prediction results, including the likelihood of churn and important factors influencing the predictions.
+- **Actionable Recommendations:** Based on the prediction results, the app offers actionable recommendations for businesses to retain customers and improve their overall experience.
+- **Secure and Confidential:** The app ensures the security and confidentiality of customer data, with measures in place to protect sensitive information.
+
+
+
+
+
+
+
+
+
+
+## How It Works
+
+1. **Choose Prediction Mode:** Select whether you want to predict churn for individual customers online or in bulk by uploading a CSV file.
+2. **Input Customer Data:** For online prediction, enter the relevant customer information such as tenure, services used, and contract details. For batch prediction, upload a CSV file containing multiple customer records.
+3. **View Prediction Results:** Once the prediction is complete, the app displays the likelihood of churn for each customer along with detailed insights and recommendations.
+4. **Take Action:** Based on the insights provided, businesses can take proactive steps to retain at-risk customers and improve overall customer satisfaction.
+5. **Download Results:** If needed, users can download the prediction results for further analysis or reporting purposes.
+
+## Benefits
+
+- **Improved Customer Retention:** By identifying customers at risk of churn, businesses can implement targeted retention strategies to reduce churn rates and increase customer loyalty.
+- **Enhanced Decision Making:** The app provides valuable insights into the factors influencing churn, helping businesses make informed decisions about resource allocation and customer engagement.
+- **Cost Savings:** Retaining existing customers is often more cost-effective than acquiring new ones. By reducing churn, businesses can save on acquisition costs and increase revenue.
+- **Competitive Advantage:** By proactively addressing churn, businesses can differentiate themselves from competitors and build a reputation for excellent customer service.
+
+
+**Installation**
+
+To install and run the app locally, follow these steps:
 
 1.  **Clone Repository:**
     ```bash
