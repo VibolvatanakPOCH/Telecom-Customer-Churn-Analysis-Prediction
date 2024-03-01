@@ -139,6 +139,10 @@ To install and run the app locally, follow these steps:
 *   `code/`:  Script for data cleaning, feature engineering, and train/test splits.
 *   `app.py`: Core Streamlit application code. 
 
+<a name="credits"></a>
+## Credits
+
+- This Project is inspired by the video of the [YouTube Channel "Mr. Satyajit Pattnaik"](https://www.youtube.com/c/SatyajitPattnaik) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
