@@ -1,3 +1,5 @@
+![WA1 - 2 Prediction Option](https://github.com/Vatanak8/Telecom-Customer-Churn-Analysis-Prediction/assets/95983559/96aecb33-c24c-45e8-b7e6-e23144b5a00c)
+
 # Telecom-Customer-Churn-Analysis-&-Prediction
 
 ## Project Overview
